@@ -86,7 +86,7 @@ class ImageGalleryDetailView extends Component {
                   >
                     <img
                       className="w-100 mw8"
-                      alt={image.alt}
+                      alt={image.title}
                       src={`${process.env.PUBLIC_URL}${image.url}`}
                     />
                   </div>
