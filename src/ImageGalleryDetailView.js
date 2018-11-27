@@ -25,7 +25,7 @@ class ImageGalleryDetailView extends Component {
   handleSwipe = (index, type) => {
     if (type === 'end') {
       return this.setState({
-        title: this.props.images[this.state.index].alt,
+        title: this.props.images[this.state.index].title,
         index,
        })
     }
@@ -33,12 +33,12 @@ class ImageGalleryDetailView extends Component {
   };
 
   handleClickChange = (index) => {
-    this.setState({ title: this.props.images[this.state.index].alt });
+    this.setState({ title: this.props.images[this.state.index].title });
   }
 
   componentWillMount() {
     this.setState({
-      title: this.props.images[this.props.startingImage].alt,
+      title: this.props.images[this.props.startingImage].title,
       index: this.props.startingImage
     })
   }
@@ -86,7 +86,7 @@ class ImageGalleryDetailView extends Component {
                   >
                     <img
                       className="w-100 mw8"
-                      alt={image.title}
+                      alt={image.alt}
                       src={`${process.env.PUBLIC_URL}${image.url}`}
                     />
                   </div>
