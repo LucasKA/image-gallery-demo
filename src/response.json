@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "alt": "A louge with a slide",
+      "title": "Louge",
+      "thumbnail": "assets/louge.jpg",
+      "url": "assets/louge-full.jpg"
+    },
+    {
+      "alt": "Google headquarters",
+      "title": "Mountain View",
+      "thumbnail": "assets/mountainview.jpg",
+      "url": "assets/mountainview-full.jpg"
+    },
+    {
+      "alt": "Cable Car table in a room",
+      "title": "Air",
+      "thumbnail": "assets/air.jpg",
+      "url": "assets/air-full.jpg"
+    },
+    {
+      "alt": "Bumper Car Chair",
+      "title": "Race Car",
+      "thumbnail": "assets/racecar.jpg",
+      "url": "assets/racecar-full.jpg"
+    },
+    {
+      "alt": "A collection of desks",
+      "title": "Desks",
+      "thumbnail": "assets/desks.jpg",
+      "url": "assets/desks-full.jpg"
+    },
+    {
+      "alt": "A relaxing lounge",
+      "title": "Lounge",
+      "thumbnail": "assets/lounge.jpg",
+      "url": "assets/lounge-full.jpg"
+    },
+    {
+      "alt": "Honeybee hive-like chair",
+      "title": "Hive",
+      "thumbnail": "assets/hive.jpg",
+      "url": "assets/hive.jpg"
+    },
+    {
+      "alt": "Google Logo at Headquarters",
+      "title": "Logo",
+      "thumbnail": "assets/logo.jpg",
+      "url": "assets/logo-full.jpg"
+    }
+  ]
+}
