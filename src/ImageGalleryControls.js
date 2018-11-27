@@ -24,11 +24,9 @@ class GalleryControls extends Component {
 
 GalleryControls.propTypes = {
   background: PropTypes.string,
-  children: PropTypes.node,
 };
 GalleryControls.defaultProps = {
   background: 'black',
-  children: null,
 };
 
 export default GalleryControls;

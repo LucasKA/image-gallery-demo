@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-//import PropTypes from 'prop-types';
+import PropTypes from 'prop-types';
 
-class CloseButton extends Component {
+class NavigationButton extends Component {
   render() {
     return (
       <button
@@ -16,4 +16,14 @@ class CloseButton extends Component {
   }
 }
 
-export default CloseButton;
+NavigationButton.propTypes = {
+  hide: PropTypes.bool,
+  onClick: PropTypes.func.isRequired,
+  icon: PropTypes.string,
+};
+NavigationButton.defaultProps = {
+  hide: false,
+  icon: 'clear'
+};
+
+export default NavigationButton;

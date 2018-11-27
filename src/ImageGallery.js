@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import DetailView from './ImageGalleryDetailView';
 import { disableBodyScroll, clearAllBodyScrollLocks } from 'body-scroll-lock';
 
@@ -74,5 +75,11 @@ class ImageGallery extends Component {
   }
 }
 
+ImageGallery.propTypes = {
+  images: PropTypes.array,
+};
+ImageGallery.defaultProps = {
+  images: [],
+};
 
 export default ImageGallery;

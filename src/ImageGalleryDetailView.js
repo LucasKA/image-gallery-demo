@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import CloseButton from './CloseButton'
 import ImageGalleryControls from './ImageGalleryControls';
 import Header from './Header';
@@ -108,9 +109,15 @@ class ImageGalleryDetailView extends Component {
   }
 }
 
+ImageGalleryDetailView.propTypes = {
+  opacity: PropTypes.number,
+  images: PropTypes.array,
+  closeDetail: PropTypes.func.isRequired,
+  startingImage: PropTypes.number.isRequired,
+};
 ImageGalleryDetailView.defaultProps = {
-  opacity: 90,
-}
-
+  opacity: 80,
+  images: null,
+};
 
 export default ImageGalleryDetailView;

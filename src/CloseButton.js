@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-//import PropTypes from 'prop-types';
+import PropTypes from 'prop-types';
 
 class CloseButton extends Component {
   render() {
@@ -15,5 +15,9 @@ class CloseButton extends Component {
     );
   }
 }
+
+CloseButton.propTypes = {
+  onClick: PropTypes.func.isRequired,
+};
 
 export default CloseButton;
