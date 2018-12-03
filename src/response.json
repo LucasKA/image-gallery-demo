@@ -1,52 +1,52 @@
 {
   "data": [
     {
-      "alt": "A louge with a slide",
-      "title": "Louge",
-      "thumbnail": "assets/louge.jpg",
-      "url": "assets/louge-full.jpg"
+      "alt": "Architecture and Design Building",
+      "title": "A & D",
+      "thumbnail": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/ArchDesignMuseum-thumb_arobpi.jpg",
+      "url": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/ArchDesignMuseum-16x9_jxug6w.jpg"
     },
     {
-      "alt": "Google headquarters",
-      "title": "Mountain View",
-      "thumbnail": "assets/mountainview.jpg",
-      "url": "assets/mountainview-full.jpg"
+      "alt": "Art and Practice Building",
+      "title": "Art and Practice",
+      "thumbnail": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/A_P-thumb_u7xmvk.jpg",
+      "url": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/A_P-16x9_dcvbji.jpg"
     },
     {
-      "alt": "Cable Car table in a room",
-      "title": "Air",
-      "thumbnail": "assets/air.jpg",
-      "url": "assets/air-full.jpg"
+      "alt": "California Heratige Museum",
+      "title": "Heritage Museum",
+      "thumbnail": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/CalHeritageMuseum-thumb_hktbwu.jpg",
+      "url": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/CalHeritageMuseum-16x9_wvu0vd.jpg"
     },
     {
-      "alt": "Bumper Car Chair",
-      "title": "Race Car",
-      "thumbnail": "assets/racecar.jpg",
-      "url": "assets/racecar-full.jpg"
+      "alt": "Descanso Gardens",
+      "title": "Descanso Gardens",
+      "thumbnail": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/Descanso-thumb_lgh1bt.jpg",
+      "url": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/Descanso-16x9_nphd9u.jpg"
     },
     {
-      "alt": "A collection of desks",
-      "title": "Desks",
-      "thumbnail": "assets/desks.jpg",
-      "url": "assets/desks-full.jpg"
+      "alt": "The Eames House Exterior",
+      "title": "Eames House",
+      "thumbnail": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/EamesHouse-thumb.jpg",
+      "url": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/EamesHouse-16x9.jpg"
     },
     {
-      "alt": "A relaxing lounge",
-      "title": "Lounge",
-      "thumbnail": "assets/lounge.jpg",
-      "url": "assets/lounge-full.jpg"
+      "alt": "The Heritage Square Museum",
+      "title": "Heritage Square",
+      "thumbnail": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/HeritageMuseum-Church-thumb.jpg",
+      "url": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/HeritageMuseum-Church-16x9.jpg"
     },
     {
-      "alt": "Honeybee hive-like chair",
-      "title": "Hive",
-      "thumbnail": "assets/hive.jpg",
-      "url": "assets/hive.jpg"
+      "alt": "The Museum of Death in Hollywoood",
+      "title": "Museum of Death",
+      "thumbnail": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/MuseumofDeath-thumb.jpg",
+      "url": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/MuseumofDeath-16x9.jpg"
     },
     {
-      "alt": "Google Logo at Headquarters",
-      "title": "Logo",
-      "thumbnail": "assets/logo.jpg",
-      "url": "assets/logo-full.jpg"
+      "alt": "The Museum of Jurassic Technology",
+      "title": "Jurassic Technology",
+      "thumbnail": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/MuseumJurassicTech-thumb_f9a0bl.jpg",
+      "url": "https://res.cloudinary.com/theculturelist/image/upload/q_auto/MuseumJurassicTech-16x9_vcuepu.jpg"
     }
   ]
 }
